@@ -52,6 +52,8 @@ This will allow the node to keep running even if your terminal is closed.
 ```bash
 datagram-cli run -- -key YOUR_API_KEY
 ```
+### 6️⃣ Create Acount 
+👉 Register https://dashboard.datagram.network?ref=859602848
 
 > 🔐 Replace `YOUR_API_KEY` with the key you can find in your **Wallet > Licenses > Key**.
 
