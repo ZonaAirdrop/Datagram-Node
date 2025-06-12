@@ -1,3 +1,6 @@
+## 50% supply of $DGRAM for Node Operators.
+[![IMG-20250612-132223-312.jpg](https://i.postimg.cc/hv4zRxmx/IMG-20250612-132223-312.jpg)](https://postimg.cc/8J3Ph7tP)
+
 ## 🚀 System Requirements
 
 To ensure stable performance, we recommend the following VPS specifications:
