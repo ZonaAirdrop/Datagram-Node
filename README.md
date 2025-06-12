@@ -1,3 +1,21 @@
+## 🚀 System Requirements
+
+To ensure stable performance, we recommend the following VPS specifications:
+
+| Component        | Recommended Specs        |
+|------------------|--------------------------|
+| CPU              | 2 vCPU (2+ GHz)          |
+| RAM              | 8 GB RAM                 |
+| Storage          | 20–25 GB SSD             |
+| Operating System | Ubuntu 20.04 / 22.04 LTS |
+| Bandwidth        | 1 TB/month or unlimited  |
+| Uptime           | Must run 24/7            |
+
+You can use VPS providers such as:
+- 🌍 Contabo (affordable with high RAM)
+- 🌐 Hetzner Cloud
+- ☁️ DigitalOcean, Vultr, or Linode
+- 🇮🇩 IDCloudHost or BiznetGio (Indonesia)
 
 
 ### 1️⃣ Download Datagram CLI
