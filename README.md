@@ -77,3 +77,4 @@ datagram-cli run -- -key YOUR_API_KEY
 * Use `CTRL+A + D` to detach safely without stopping the node.
 * You can automate startup using `systemd` – ask if you'd like a service template.
 
+👉 Join Grup (Optional) https://t.me/ZonaAirdr0p
